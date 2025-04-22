@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Ella Lee
 
-<!--
-**LeeDek/LeeDek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer** with a love for frontend magic — especially UI/UX, React, and building smooth, intuitive digital experiences.
 
-Here are some ideas to get you started:
+🌱 I’m currently diving into advanced animations with GSAP and crafting creative portfolio experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at: leedekel@gmail.com  
+🌐 Portfolio: [ellaleedev.netlify.app](https://ellaleedev.netlify.app)  
+💼 LinkedIn: [linkedin.com/in/lee-dekel](https://linkedin.com/in/lee-dekel)
+
+⚡ Fun fact: I’m a big fan of Rose Quartz, sunlight 😎, and coding to chillhop 😌
+
+### 🛠️ Languages and Tools:
+`HTML-5` `SCSS` `JavaScript` `TypeScript` `React` `Redux` `Firebase` `Node.js` `Express` `Git`
+
+---
+
+Thanks for visiting! ✨
+
