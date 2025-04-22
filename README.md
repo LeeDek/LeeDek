@@ -11,7 +11,7 @@ I'm a **Full-Stack Developer** with a love for frontend magic – especially UI/
 ⚡ Fun fact: I’m a big fan of Rose Quartz, sunlight 😎, and coding to ambient sounds 👩🏻‍💻😌
 
 ### 🛠️ Languages and Tools:
-`HTML-5` `SCSS` `JavaScript` `TypeScript` `React` `Redux` `Firebase` `Node.js` `Express` `Git`
+`HTML-5` `SCSS` `JavaScript` `TypeScript` `React` `Redux` `Firebase` `Node.js` `Express` `MySQL` `MongoDB` `Firebase` `Git`
 
 ---
 
