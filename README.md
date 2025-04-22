@@ -4,7 +4,7 @@ I'm a **Full-Stack Developer** with a love for frontend magic – especially UI/
 
 🌱 I’m currently exploring AI-generated self-improvement tools and learning Python to enhance my full-stack capabilities.
 
-📫 Reach me at: leedekel@gmail.com  
+📫 Reach me at: leegreat21@gmail.com  
 🌐 Portfolio: [ellaleedev.netlify.app](https://ellaleedev.netlify.app)  
 💼 LinkedIn: [linkedin.com/in/ella-lee-dekel](https://www.linkedin.com/in/ella-lee-dekel)
 
