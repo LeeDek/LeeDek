@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ella Lee
+# Hi 👋, I'm Ella
 
 I'm a **Full-Stack Developer** with a love for frontend magic – especially UI/UX, React, and building smooth, intuitive digital experiences.
 
